@@ -40,13 +40,8 @@ Este repositorio contiene:
 - Scripts SQL de creación de tablas
 - Capturas de pantalla como evidencia
 
-![Evidencia](evidencias/Imagen%20de%20WhatsApp%202025-05-17%20a%20las%2018.07.04_4ab1f8eb.jpg)
-
 # Evidencias del Proyecto
-
-![Evidencia 1](evidencias/Imagen%20de%20WhatsApp%202025-05-17%20a%20las%2018.04.23_6db91e22.jpg)
-
-![Evidencia 2](evidencias/Imagen%20de%20WhatsApp%202025-05-17%20a%20las%2018.06.07_33b32c4b.jpg)
+![Evidencia](evidencias/Imagen%20de%20WhatsApp%202025-05-17%20a%20las%2018.07.04_4ab1f8eb.jpg)
 
 ![Evidencia 3](evidencias/Imagen%20de%20WhatsApp%202025-05-17%20a%20las%2018.07.04_4ab1f8eb.jpg)
 
