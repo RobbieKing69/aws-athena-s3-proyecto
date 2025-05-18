@@ -39,3 +39,6 @@ Este repositorio contiene:
 - Archivos CSV
 - Scripts SQL de creación de tablas
 - Capturas de pantalla como evidencia
+
+![Evidencia](evidencias/Imagen%20de%20WhatsApp%202025-05-17%20a%20las%2018.07.04_4ab1f8eb.jpg)
+
