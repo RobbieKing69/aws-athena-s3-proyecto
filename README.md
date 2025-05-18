@@ -1,25 +1,38 @@
-# aws-athena-s3-proyecto
-# Proyecto: Integración S3 con Athena
+# Proyecto AWS Athena + S3
 
-## Objetivo
-Demostrar la capacidad de almacenar archivos CSV en S3 y consultarlos usando Amazon Athena.
+Este proyecto demuestra cómo usar Amazon Athena con datos almacenados en S3.
 
-## Estructura
-- 3 tablas: users, products, orders
+## 📁 Estructura del proyecto
 
-![aws-athena-s3-proyecto](evidencias/Imagen%20de%20WhatsApp%202025-05-17%20a%20las%2018.04.23_6db91e22.jpg)
+- Base de datos en Athena: `databasejosue_athena`
+- Tablas creadas:
+  - `users`
+  - `products`
+  - `orders`
+- Archivos CSV subidos a S3:
+  - `users.csv`
+  - `products.csv`
+  - `orders.csv`
 
-- Datos en formato CSV
-- Consultas en SQL desde Athena
+## 📸 Evidencia
 
-## Ruta en S3
-`s3://actividadext/tablas.csv/`
+![Consulta en Athena](evidencias/captura-athena.jpg)
 
-## Evidencia
-Ver carpeta `/evidencias/` con capturas de pantalla de:
-- Archivos en S3
-- Tablas en Athena
-- Consultas exitosas
+## 📌 Descripción
 
-## Autor
-Josué Medina
+Se subieron archivos CSV a un bucket de Amazon S3, luego se crearon las tablas externas en Athena para poder consultarlos directamente con SQL.
+
+## 🚀 Tecnologías
+
+- Amazon S3
+- Amazon Athena
+- AWS Glue
+- SQL
+- GitHub
+
+## 📂 Repositorio
+
+Este repositorio contiene:
+- Archivos CSV
+- Scripts SQL de creación de tablas
+- Capturas de pantalla como evidencia
