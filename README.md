@@ -16,7 +16,8 @@ Este proyecto demuestra cómo usar Amazon Athena con datos almacenados en S3.
 
 ## 📸 Evidencia
 
-![Consulta en Athena](evidencias/captura-athena.jpg)
+![Consulta en Athena](evidencias/Imagen%20de%20WhatsApp%202025-05-17%20a%20las%2018.04.23_6db91e22.jpg)
+
 
 ## 📌 Descripción
 
